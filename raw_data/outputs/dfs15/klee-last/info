@@ -1,3 +1,0 @@
-klee --optimize --max-memory=0 --search=dfs --check-overshift --check-div-zero single_node.bc
-PID: 12101
-Started: 2015-05-14 15:49:56
